@@ -1,2 +1,2 @@
 Pyhon Basics
-practice 1
+practices
